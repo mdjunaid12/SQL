@@ -53,11 +53,11 @@ A web application for managing users with CRUD (Create, Read, Update, Delete) op
              password: "your_password",
             });
    
-4.**Run the Application**:
+## Run the Application
       node app.js
       The server will start on port 8080 (http://localhost:8080)
 
-5.**API Endpoints**:
+## API Endpoints
     Route	Method	Description
     /GET	Homepage with user count
     /user	GET	List all users
